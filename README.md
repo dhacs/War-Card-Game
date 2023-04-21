@@ -3,9 +3,11 @@ Code for the public war game repository.
 
 Contains 3 Files:
 
-War.hs - haskell implementation
-War.ex - elixir implementation 
-main.rs - rust implementation
+War.hs - **haskell** implementation
+
+War.ex - **elixir** implementation 
+
+main.rs - **rust** implementation
 
 
 This project was programmed in three diferent languages: Elixir, Haskell, and Rust. It follows proper software principles and design patterns such as tail-end recursion and pattern matching.
